@@ -5,4 +5,6 @@
 
 [1_section](https://github.com/RadostMoyaaa/StepikAutoTesting/tree/master/1_section)  
 
-[2_section](https://github.com/RadostMoyaaa/StepikAutoTesting/tree/master/2_section)
+[2_section](https://github.com/RadostMoyaaa/StepikAutoTesting/tree/master/2_section)  
+
+[3_section](https://github.com/RadostMoyaaa/StepikAutoTesting/tree/homework/3_section)
